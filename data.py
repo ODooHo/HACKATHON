@@ -1,3 +1,4 @@
+#좌표 트레이닝용 데이터셋
 # Import the converted model's class
 import numpy as np
 import random
