@@ -1,8 +1,0 @@
-#posenet
-https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5
-(기술 설명)
-https://www.youtube.com/watch?v=PyxsziqatFE
-활용 영상
-#데이터셋(훈련 데이터)
-https://github.com/kentsommer/tensorflow-posenet/blob/master/train.py
-(재훈련이 불가능한 모델이지만, 모델을 직접 만들어 훈련한 모델을 참고하였다. 훈련 데이터 분석을 위함)
